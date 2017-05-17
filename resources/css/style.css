@@ -22,12 +22,11 @@ a {
   font-size: 16px;
 }
 
-.link {
-  color: aquamarine;
-  font-size: 16px;
-}
-
 .plain {
   color:gray;
   font-size: 21px;
+}
+
+.footer {
+  text-align: right;
 }
